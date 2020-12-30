@@ -12,3 +12,5 @@ Key points:
   - updating stats
   - logging
 
+# Class Diagram for the system : 
+![](https://user-images.githubusercontent.com/52833369/98454187-8cca5700-2116-11eb-8105-cff4754d579b.png)
